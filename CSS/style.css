@@ -1,0 +1,40 @@
+.numero{
+
+    color: rgb(223, 41, 9);
+    padding: 15px;
+    text-align: left;
+    background-color: orange;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    height: 50px;
+
+}
+
+.botao{
+
+    
+    margin-top:5px;
+
+}
+
+.resultado{
+    
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}
+
+main{
+
+    text-align: center;
+
+}
