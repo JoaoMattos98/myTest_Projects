@@ -1,0 +1,22 @@
+{
+  "name": "pratica_severino",
+  "version": "1.0.0",
+  "description": "Hello,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devMattJoao/myTest_Projects.git"
+  },
+  "author": "Joao_Mattos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devMattJoao/myTest_Projects/issues"
+  },
+  "homepage": "https://github.com/devMattJoao/myTest_Projects#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
